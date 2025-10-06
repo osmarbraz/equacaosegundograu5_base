@@ -1,4 +1,4 @@
-# Cálculo equação do 2o grau
+# Cálculo equação do 2o grau usando JUnit5
 
 Para ser utilizado nas atividades de testes unitários.
 Utiliza a fórmula de Baskara para calcular as raizes.
