@@ -5,7 +5,7 @@
     
     <modelVersion>4.0.0</modelVersion>
     <groupId>com</groupId>
-    <artifactId>baskara5_base</artifactId>
+    <artifactId>equacaosegundograu5_base</artifactId>
     <version>1</version>
     <packaging>jar</packaging>
     
@@ -66,5 +66,5 @@
             </plugin>            
         </plugins>        
     </build>
-    <name>baskara5_base</name>
+    <name>equacaosegundograu5_base</name>
 </project>
