@@ -57,7 +57,7 @@ public class Equacao {
      */
     public double getDelta() {
         //Cálculo delta      
-        return 0;
+        return Double.NaN;
     }
 
     
